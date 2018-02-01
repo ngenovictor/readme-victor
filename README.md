@@ -1,5 +1,5 @@
 ## MY FIRST WEB PAGE
-This is based on the learning content at [epicodus](git remote add origin https://github.com/ngenovictor/readme-victor.git)
+This is based on the learning content at [epicodus](https://www.learnhowtoprogram.com/intro-to-programming/git-html-and-css/practice-block-elements)
 
 ### Technology Used
 1. HTML
